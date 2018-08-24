@@ -10,4 +10,4 @@
 
 ## INSTALLATION ##
 
-Read this blog **[Persian Datepicker for Oracle APEX](https://saeedhassanpour.blogspot.com/2018/08/Persian-Datepicker-for-Oracle-APEX.html)**
+Read this blog **[Persian Datepicker for Oracle APEX](http://saeedhassanpour.blogspot.com/2018/08/persian-datepicker-for-oracle-apex.html)**
