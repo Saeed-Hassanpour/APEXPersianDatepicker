@@ -1,5 +1,5 @@
 # APEXPersianDatepicker
-![](https://raw.githubusercontent.com/Saeed-Hassanpour/APEXPersianDatepicker/master/persian-datepicker-apex.png)
+![](https://raw.githubusercontent.com/Saeed-Hassanpour/APEXPersianDatepicker/master/persian-datepicker-apex.gif)
 
 ## DEMO ##
 
